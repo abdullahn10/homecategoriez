@@ -9,6 +9,6 @@
 
 <li>
     <a data-toggle="tab" href="#homecategoriez" class="homecategoriez">
-        {l s='Popular categories' mod='homecategoriez'}
+        {l s='Kategorien' mod='homecategoriez'}
     </a>
 </li>
