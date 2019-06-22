@@ -23,7 +23,7 @@
 {/literal}
 <br class="clear" />
 <div id="homecategoriez" class="block products_block homecategoriez-block homecategoriez-categories" style="width:{$block_width}px;">
-    <h4>{l s='Popular categories' mod='homecategoriez'}</h4>
+    <h4>{l s='Kategorien' mod='homecategoriez'}</h4>
         <div class="block_content" style="width:{$block_width}px">
             <ul>
             {foreach from=$categories item=category name=homeCategory}

@@ -9,7 +9,7 @@
 
 <!-- MODULE homecategoriez -->
 <div id="homecategoriez">
-    <h4>{l s='Popular categories' mod='homecategoriez'}</h4>
+    <h4>{l s='Kategorien' mod='homecategoriez'}</h4>
     <ul class="row">
         {foreach from=$categories item=category name=homeCategory}
             {assign var='categoryLink' value=$link->getcategoryLink($category->id_category, $category->link_rewrite)}
